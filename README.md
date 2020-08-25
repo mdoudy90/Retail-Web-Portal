@@ -1,5 +1,8 @@
 # Project Greenfield
 
+![](readme-assets/retailWebPortal1.gif)
+![](readme-assets/retailWebPortal2.gif)
+
 ## Installation
 
 ```
