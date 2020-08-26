@@ -7,11 +7,11 @@ This client-facing web portal was built out by a team of 3 devs over a span of 2
 ---
 
 ## Table of Contents
-1. [Installing Dependencies](##Installing-Dependencies)
-2. [Tech Stack](##Tech-Stack)
-3. [Optimization](##Optimization)
-4. [Components](##Components)
-5. [Contributors](##Contributors)
+1. [Installing Dependencies](#Installing-Dependencies)
+2. [Tech Stack](#Tech-Stack)
+3. [Optimization](#Optimization)
+4. [Components](#Components)
+5. [Contributors](#Contributors)
 
 ---
 
