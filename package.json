@@ -11,9 +11,8 @@
   "license": "ISC",
   "scripts": {
     "start": "node ./server/index.js",
-    "heroku-postbuild": "webpack -p",
-    "dev-react": "webpack -d --watch",
-    "prod-react": "webpack -p",
+    "dev": "webpack -d --watch & nodemon ./server/index.js",
+    "build": "webpack -p",
     "test": "jest"
   },
   "dependencies": {
