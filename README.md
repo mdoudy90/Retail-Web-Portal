@@ -1,6 +1,6 @@
 # Blázar - Retail Web Portal
 
-This client-facing web portal was built out by a team of 3 devs over a span of 2 weeks following a 26 page business requirements document. The primary focus was on the frontend using React (Hooks), Redux for global state management, Express to render data from a headless API, and Sass to create a consistent and maintainable theme across the application
+This client-facing web portal was built out by a team of 3 devs over a span of 2 weeks following a 26 page business requirements document. The primary focus was on the frontend using React (Hooks), Redux for global state management, Express to render data from a headless API, and Sass to create a consistent and maintainable theme across the application.
 
 ![](readme-assets/retailWebPortal1.gif)
 
